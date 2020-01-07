@@ -1,0 +1,11 @@
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/obj/Debug/netcoreapp3.0/Ale2020.2.csprojAssemblyReference.cache
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/obj/Debug/netcoreapp3.0/Ale2020.2.AssemblyInfoInputs.cache
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/obj/Debug/netcoreapp3.0/Ale2020.2.AssemblyInfo.cs
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/bin/Debug/netcoreapp3.0/Ale2020.2
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/bin/Debug/netcoreapp3.0/Ale2020.2.deps.json
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/bin/Debug/netcoreapp3.0/Ale2020.2.runtimeconfig.json
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/bin/Debug/netcoreapp3.0/Ale2020.2.runtimeconfig.dev.json
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/bin/Debug/netcoreapp3.0/Ale2020.2.dll
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/bin/Debug/netcoreapp3.0/Ale2020.2.pdb
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/obj/Debug/netcoreapp3.0/Ale2020.2.dll
+/Users/alejandraroel/Projects/Ale2020.2/Ale2020.2/obj/Debug/netcoreapp3.0/Ale2020.2.pdb
